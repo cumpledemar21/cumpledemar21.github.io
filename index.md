@@ -27,7 +27,8 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 
 ### Elena
 <img src="elena.jpg" alt="Aquí podemos observar a dos leonas disfrutando de la caza..." width="500" height="600" />
-```
+
+```markdown
 Maaaaaar, feliz cumpleaños pechocha!!!!!
 Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo 
 hicimos en tu casa aquel día que quedamos y me dió un amarillo... 
@@ -61,7 +62,8 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 
 ### Rebe
 <img src="rbe.jpg" alt="Postureito" width="500" height="600" />
-```
+
+```markdown
 ¡Feliz cumpleaños, playera! Es un poquito tarde, pero ha habido que buscarse la vida :D
 Esperamos que te guste lo que las circunstancias nos han dejado preparar. Ya vendrán tiempos
 mejores y desfasaremos donde quieras. Mientras tanto, esperamos que te sientas arropada 
