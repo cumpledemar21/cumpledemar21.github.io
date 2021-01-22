@@ -27,6 +27,8 @@ te pongo un gif de los coreanos (gracias por no quejarte cuando los pongo 😘)
 
 ### Cibe
 
+<img src="Cibe.jpg" />
+
 ```markdown
 Nada mas q añadir a la Olsen mayor. A ver si el 29 me agarras el pelito tú. Te quierito gili ❤️
 ```
@@ -46,6 +48,8 @@ Ainssss, qué te quiero yo, coññññño ya!
 ```
 
 ### Merchaura
+
+<img src="Merchaura.jpg" />
 
 ```markdown
 Molts anys i bons de parte de las chungas.
@@ -67,6 +71,8 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 ```
 
 ### Pili
+
+<img src="Pili.jpg" />
 
 ```markdown
 Feliz cumpleaños wapisima. 
@@ -90,21 +96,29 @@ PD: No te pierdas el disclaimer, que ha habido un colaborador en la sombra ;) xD
 
 ### Ro
 
-```markdown
+<img src="Ro.jpg" />
 
+```markdown
+Feliz cumpleaños perroflautis, que lo único amargo del año sea una Mahou clásica o algo por el estilo
 ```
 
 ### Susan
 
+<img src="Susan.jpg" />
+
 ```markdown
-Felicidades, Mar!! Me he dado cuenta de que no tenemos fotos juntas (o yo no las encuentro), 
-así que es la excusa perfecta para que en cuanto se pueda, le pongamos remedio y 
-brindemos con una buena Mahou verde por tu cumpleaños.
+Felicidades, Mar! Que en nada podamos repetir esta foto, pero mostrando sonrisas radiantes. 
+Tenemos pendiente una visita al secarral, a ver si de una buena vez te convences de todas las bondades 
+que tenemos en mi tierra. En cuanto se pueda, y mientras el momento llega, a seguir disfrutando de los 
+momentitos que la vida nos regala
 ```
 
 ### Truchi
+
+<img src="Truchi.jpg" />
+
 ```markdown
-PRUEBA
+Felicidades Mar! Un abrazo grande y a disfrutar.
 ```
 
 
