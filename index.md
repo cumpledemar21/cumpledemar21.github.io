@@ -39,7 +39,7 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 ```
 
 ### Paz
-![Rosalías](https://github.com/cumpledemar21/cumpledemar21.github.io/blob/main/photo_2021-01-22_17-13-05.jpg)
+![Rosalías](https://github.com/cumpledemar21/cumpledemar21.github.io/blob/main/photo_2021-01-22_17-13-05.jpg?raw=true)
 ```markdown
 Muchas felicidades felicidades, espero que a nominó tardar volvamos a ponernos morritos.
 ```
