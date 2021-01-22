@@ -93,11 +93,11 @@ PRUEBA
 ## Y un coño de postre
 <img src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/10/maxresdefault-1.jpg" alt="Copyright de Big Mouth, Netflix. Por si las moscas..." />
 
-## Y una foto que era muy bonita como pa no ponerla
+## Y ahora fotos que nos parece obligatorio poner
 <img src="ripley.jpg" alt=":)" />
-
-## Y esta igual, claro
+<img src="todas.jpg" alt=":)" />
 <img src="masmadrid.jpg" alt=":)" />
+
 
 ### Disclaimer
 Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, 
