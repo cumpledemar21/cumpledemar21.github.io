@@ -18,11 +18,11 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 
 ```markdown
 ¡Muchísimas felicidades Mar! 
-Espero que dentro de poco lo podamos celebrar y nos deileites con uno de tus perreos, 
-prometo buscarte una canción digna para ello 💜🌟
+Espero que dentro de poco lo podamos celebrar y nos deleites con uno de tus perreos, 
+prometo buscarte una canción digna de ello 💜🌟
 
 PD: Como las fotos que tenemos juntas no hacen justicia a lo buenorra que estás ahora, 
-te pongo un gif de los coreanos (gracias por no quejarte cuando los pongo 😘)
+te pongo un GIF de los coreanos (gracias por no quejarte cuando los pongo 😘)
 ```
 
 ### Cibe
