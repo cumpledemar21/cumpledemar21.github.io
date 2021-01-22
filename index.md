@@ -14,7 +14,7 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 
 ### Andrea
 
-<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe>
+<div><iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe> <div>
 
 ```markdown
 ¡Muchísimas felicidades Mar! 
