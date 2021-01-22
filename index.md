@@ -28,9 +28,10 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 ### Elena
 ```
 Maaaaaar, feliz cumpleaños pechocha!!!!!
-Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo hicimos en tu casa aquel 
-día que quedamos y me dió un amarillo... bueno como ese día no Mar, que me decías que me animara a bailar y 
-cuando me levantaba te me dabas la vuelta para bailar con otras, cacho puta jajajja. 
+Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo 
+hicimos en tu casa aquel día que quedamos y me dió un amarillo... 
+bueno como ese día no Mar, que me decías que me animara a bailar y cuando me levantaba 
+te me dabas la vuelta para bailar con otras, cacho puta jajajja. 
 Ainssss, qué te quiero yo, coññññño ya! 
 💋💋💋💋💋
 ```
