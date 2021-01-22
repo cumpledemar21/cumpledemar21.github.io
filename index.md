@@ -61,7 +61,7 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 ```
 
 ### Rebe
-<img src="rbe.jpg" alt="Postureito" width="500" height="600" />
+<img src="rbe.jpg" alt="Postureito" />
 
 ```markdown
 ¡Feliz cumpleaños, playera! Es un poquito tarde, pero ha habido que buscarse la vida :D
