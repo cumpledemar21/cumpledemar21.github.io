@@ -17,16 +17,21 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 <iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe>
 
 ```markdown
+¡Muchísimas felicidades Mar! 
+Espero que dentro de poco lo podamos celebrar y nos deileites con uno de tus perreos, prometo buscarte una canción digna para ello 💜🌟
 
+PD: Como las fotos que tenemos juntas no hacen justicia a lo buenorra que estás ahora, te pongo un gif de los coreanos (gracias por no quejarte cuando los pongo 😘)
 ```
 
 ### Cibe
-```
 
+```markdown
+Nada mas q añadir a la Olsen mayor. A ver si el 29 me agarras el pelito tú. Te quierito gili ❤️
 ```
 
 ### Elena
-<img src="elena.jpg" alt="Aquí podemos observar a dos leonas disfrutando de la caza..." width="500" height="600" />
+
+<img src="elena.jpg" alt="Aquí podemos observar a dos leonas disfrutando de la caza..." />
 
 ```markdown
 Maaaaaar, feliz cumpleaños pechocha!!!!!
@@ -39,28 +44,33 @@ Ainssss, qué te quiero yo, coññññño ya!
 ```
 
 ### Laura
+
 ```markdown
 
 ```
 
 ### Merche
+
 ```markdown
 
 ```
 
 ### Paz
-<img src="paz.jpg" alt="Rosalías" width="500" height="600" />
+
+<img src="paz.jpg" alt="Rosalías" />
 
 ```markdown
 Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos morritos.
 ```
 
 ### Pili
-```markdown
 
+```markdown
+Feliz cumpleaños wapisima. Solo decirte que te mereces todos esos abrazos que no te doy por rancia y que eres como las buenas canciones, que siempre sabes que no fallan para levantar el ánimo y recurres a ellas una y otra vez para tenerlas como banda sonora de la vida. Te quiero y te deseo lo más mejor. SITOS
 ```
 
 ### Rebe
+
 <img src="rbe.jpg" alt="Postureito" />
 
 ```markdown
@@ -72,13 +82,15 @@ PD: No te pierdas el disclaimer, que ha habido un colaborador en la sombra ;) xD
 ```
 
 ### Ro
+
 ```markdown
 
 ```
 
 ### Susan
-```markdown
 
+```markdown
+Felicidades, Mar!! Me he dado cuenta de que no tenemos fotos juntas (o yo no las encuentro), así que es la excusa perfecta para que en cuanto se pueda, le pongamos remedio y brindemos con una buena Mahou verde por tu cumpleaños.
 ```
 
 ### Truchi
