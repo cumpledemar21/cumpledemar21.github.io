@@ -2,7 +2,7 @@
 Nos hemos tenido que poner creativas con esto de la pandemia y los besos indeseados de señores Miyagi acosadores de mierda :D
 No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonrisa. Hemos subido este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo ^-^
 
-![Image]()
+![Esto es de Dreamworks, creo...](https://github.com/cumpledemar21/cumpledemar21.github.io/blob/main/minion.jpg)
 
 
 ### Almu
