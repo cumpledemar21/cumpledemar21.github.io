@@ -76,9 +76,9 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 
 ```markdown
 Feliz cumpleaños wapisima. 
-Solo decirte que te mereces todos esos abrazos que no te doy por rancia y que eres como las buenas canciones, 
-que siempre sabes que no fallan para levantar el ánimo y recurres a ellas una y otra vez para tenerlas
-como banda sonora de la vida. 
+Solo decirte que te mereces todos esos abrazos que no te doy por rancia y que eres como las buenas 
+canciones, que siempre sabes que no fallan para levantar el ánimo y recurres a ellas una y otra vez 
+para tenerlas como banda sonora de la vida. 
 Te quiero y te deseo lo más mejor. SITOS
 ```
 
