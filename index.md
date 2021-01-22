@@ -47,7 +47,7 @@ Ainssss, qué te quiero yo, coññññño ya!
 ```
 
 ### Paz
-<img src="photo_2021-01-22_17-13-05.jpg" alt="Rosalías" width="500" height="600" />
+<img src="paz.jpg" alt="Rosalías" width="500" height="600" />
 
 ```markdown
 Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos morritos.
@@ -82,6 +82,9 @@ PRUEBA
 
 ## Y ahora 34 pollas para que soples
 ![Image]()
+
+## Y un coño de postre
+<img src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/10/maxresdefault-1.jpg" alt="Copyright de Big Mouth, Netflix. Por si las moscas..." width="500" height="600" />
 
 ### Disclaimer
 Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, 
