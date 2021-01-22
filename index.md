@@ -12,7 +12,7 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 
 ### Andrea
 
-<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
+<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe>
 
 ```markdown
 
