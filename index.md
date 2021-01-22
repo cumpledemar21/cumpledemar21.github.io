@@ -1,6 +1,8 @@
 # ¡Felicidades Mar! ⭐️
-Nos hemos tenido que poner creativas con esto de la pandemia y los besos indeseados de señores Miyagi acosadores de mierda :D
-No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonrisa. Hemos subido este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo ^-^
+Nos hemos tenido que poner creativas con esto de la pandemia y los besos indeseados de señores 
+Miyagi acosadores de mierda :D
+No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonrisa. Hemos subido 
+este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo ^-^
 
 <img src="minion.jpg" alt="Esto es de Dreamworks, creo..." width="500" height="600" />
 
@@ -26,7 +28,9 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 ### Elena
 ```markdown
 Maaaaaar, feliz cumpleaños pechocha!!!!!
-Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo hicimos en tu casa aquel día que quedamos y me dió un amarillo... bueno como ese día no Mar, que me decías que me animara a bailar y cuando me levantaba te me dabas la vuelta para bailar con otras, cacho puta jajajja. 
+Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo hicimos en tu casa aquel 
+día que quedamos y me dió un amarillo... bueno como ese día no Mar, que me decías que me animara a bailar y 
+cuando me levantaba te me dabas la vuelta para bailar con otras, cacho puta jajajja. 
 Ainssss, qué te quiero yo, coññññño ya! 
 💋💋💋💋💋
 ```
@@ -79,4 +83,5 @@ PRUEBA
 ![Image]()
 
 ### Disclaimer
-Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, eso nos ha permitido crear esta web con la fuerza de nuestra mente. Te queremos, Bill.
+Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, 
+eso nos ha permitido crear esta web con la fuerza de nuestra mente. Te queremos, Bill.
