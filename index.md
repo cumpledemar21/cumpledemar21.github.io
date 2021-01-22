@@ -99,7 +99,7 @@ PD: No te pierdas el disclaimer, que ha habido un colaborador en la sombra ;) xD
 <img src="Ro.jpg" />
 
 ```markdown
-Feliz cumpleaños perroflautis, que lo único amargo del año sea una Mahou clásica o algo por el estilo
+Feliz cumpleaños perroflautis, que lo único amargo del año sea una Mahou clásica
 ```
 
 ### Susan
