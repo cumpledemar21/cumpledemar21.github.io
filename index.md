@@ -12,7 +12,7 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 
 ### Andrea
 
-<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
 
 ```markdown
 
@@ -39,7 +39,9 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 ```
 
 ### Paz
-![Rosalías](https://github.com/cumpledemar21/cumpledemar21.github.io/blob/main/photo_2021-01-22_17-13-05.jpg?raw=true)
+![Rosalías](photo_2021-01-22_17-13-05.jpg)
+<img src="photo_2021-01-22_17-13-05.jpg" alt="Girl in a jacket" width="500" height="600" />
+
 ```markdown
 Muchas felicidades felicidades, espero que a nominó tardar volvamos a ponernos morritos.
 ```
