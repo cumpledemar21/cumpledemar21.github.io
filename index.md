@@ -18,9 +18,11 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 
 ```markdown
 ¡Muchísimas felicidades Mar! 
-Espero que dentro de poco lo podamos celebrar y nos deileites con uno de tus perreos, prometo buscarte una canción digna para ello 💜🌟
+Espero que dentro de poco lo podamos celebrar y nos deileites con uno de tus perreos, 
+prometo buscarte una canción digna para ello 💜🌟
 
-PD: Como las fotos que tenemos juntas no hacen justicia a lo buenorra que estás ahora, te pongo un gif de los coreanos (gracias por no quejarte cuando los pongo 😘)
+PD: Como las fotos que tenemos juntas no hacen justicia a lo buenorra que estás ahora, 
+te pongo un gif de los coreanos (gracias por no quejarte cuando los pongo 😘)
 ```
 
 ### Cibe
@@ -43,16 +45,17 @@ Ainssss, qué te quiero yo, coññññño ya!
 💋💋💋💋💋
 ```
 
-### Laura
+### Merchaura
 
 ```markdown
-
-```
-
-### Merche
-
-```markdown
-
+Molts anys i bons de parte de las chungas.
+Cuidate la cadera que el desgaste se puede ir notando, 
+aunque no preguntes pk sé que en internet puedes encontrar prótesis, avisa cuando la necesites
+y ya que Pili te agasaja con dibujos yo te recomiendo cuadros muy chulos que encima fueron 
+propiedad de un psicoanalista muy raro llamado Lacan que se dedicaba a enseñarlo en las fiestas... 
+degenerados todos...
+Recuerda que el camino de la diosa es el bueno.
+Un besi.
 ```
 
 ### Paz
@@ -66,7 +69,11 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 ### Pili
 
 ```markdown
-Feliz cumpleaños wapisima. Solo decirte que te mereces todos esos abrazos que no te doy por rancia y que eres como las buenas canciones, que siempre sabes que no fallan para levantar el ánimo y recurres a ellas una y otra vez para tenerlas como banda sonora de la vida. Te quiero y te deseo lo más mejor. SITOS
+Feliz cumpleaños wapisima. 
+Solo decirte que te mereces todos esos abrazos que no te doy por rancia y que eres como las buenas canciones, 
+que siempre sabes que no fallan para levantar el ánimo y recurres a ellas una y otra vez para tenerlas
+como banda sonora de la vida. 
+Te quiero y te deseo lo más mejor. SITOS
 ```
 
 ### Rebe
@@ -90,7 +97,9 @@ PD: No te pierdas el disclaimer, que ha habido un colaborador en la sombra ;) xD
 ### Susan
 
 ```markdown
-Felicidades, Mar!! Me he dado cuenta de que no tenemos fotos juntas (o yo no las encuentro), así que es la excusa perfecta para que en cuanto se pueda, le pongamos remedio y brindemos con una buena Mahou verde por tu cumpleaños.
+Felicidades, Mar!! Me he dado cuenta de que no tenemos fotos juntas (o yo no las encuentro), 
+así que es la excusa perfecta para que en cuanto se pueda, le pongamos remedio y 
+brindemos con una buena Mahou verde por tu cumpleaños.
 ```
 
 ### Truchi
