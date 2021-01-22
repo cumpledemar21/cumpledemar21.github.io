@@ -2,7 +2,7 @@
 Nos hemos tenido que poner creativas con esto de la pandemia y los besos indeseados de señores Miyagi acosadores de mierda :D
 No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonrisa. Hemos subido este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo ^-^
 
-![Esto es de Dreamworks, creo...](minion.jpg)
+<img src="minion.jpg" alt="Esto es de Dreamworks, creo..." width="500" height="600" />
 
 
 ### Almu
@@ -42,8 +42,7 @@ Ainssss, qué te quiero yo, coññññño ya!
 ```
 
 ### Paz
-![Rosalías](photo_2021-01-22_17-13-05.jpg)
-<img src="photo_2021-01-22_17-13-05.jpg" alt="Girl in a jacket" width="500" height="600" />
+<img src="photo_2021-01-22_17-13-05.jpg" alt="Rosalías" width="500" height="600" />
 
 ```markdown
 Muchas felicidades felicidades, espero que a nominó tardar volvamos a ponernos morritos.
