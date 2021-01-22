@@ -60,8 +60,12 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 
 ### Rebe
 <img src="rbe.jpg" alt="Postureito" width="500" height="600" />
-```markdown
-
+```
+¡Feliz cumpleaños, playera! Es un poquito tarde, pero ha habido que buscarse la vida :D
+Esperamos que te guste lo que las circunstancias nos han dejado preparar. Ya vendrán tiempos
+mejores y desfasaremos donde quieras. Mientras tanto, esperamos que te sientas arropada 
+aunque sea viendo una web cutre. Te queremos, felices 34 ^-^
+PD: No te pierdas el disclaimer, que ha habido un colaborador en la sombra ;) xD
 ```
 
 ### Ro
@@ -80,12 +84,14 @@ PRUEBA
 ```
 
 
-
 ## Y ahora 34 pollas para que soples
 <img src="velas.jpg" alt="¡Pide un deseo!" />
 
 ## Y un coño de postre
-<img src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/10/maxresdefault-1.jpg" alt="Copyright de Big Mouth, Netflix. Por si las moscas..." width="500" height="600" />
+<img src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/10/maxresdefault-1.jpg" alt="Copyright de Big Mouth, Netflix. Por si las moscas..." />
+
+## Y una foto que era muy bonita como pa no ponerla
+<img src="ripley.jpg" alt=":)" />
 
 ### Disclaimer
 Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, 
