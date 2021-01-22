@@ -4,7 +4,7 @@ Miyagi acosadores de mierda :D
 No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonrisa. Hemos subido 
 este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo ^-^
 
-<img src="minion.jpg" alt="Esto es de Dreamworks, creo..." width="500" height="600" />
+<img src="minion.jpg" alt="Esto es de Dreamworks, creo..."/>
 
 
 ### Almu
@@ -59,6 +59,7 @@ Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos
 ```
 
 ### Rebe
+<img src="rbe.jpg" alt="Postureito" width="500" height="600" />
 ```markdown
 
 ```
@@ -81,7 +82,7 @@ PRUEBA
 
 
 ## Y ahora 34 pollas para que soples
-![Image]()
+<img src="velas.jpg" alt="¡Pide un deseo!" />
 
 ## Y un coño de postre
 <img src="https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/10/maxresdefault-1.jpg" alt="Copyright de Big Mouth, Netflix. Por si las moscas..." width="500" height="600" />
