@@ -12,7 +12,7 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 
 ### Andrea
 
-<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/fallontonight-bts-tonight-show-on-fallon-6UrRC9SkO7HYejM9oL">via GIPHY</a></p>
+<img src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" />
 
 ```markdown
 
