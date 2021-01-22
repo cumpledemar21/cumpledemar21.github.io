@@ -26,7 +26,7 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 ```
 
 ### Elena
-```markdown
+```
 Maaaaaar, feliz cumpleaños pechocha!!!!!
 Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo hicimos en tu casa aquel 
 día que quedamos y me dió un amarillo... bueno como ese día no Mar, que me decías que me animara a bailar y 
@@ -49,7 +49,7 @@ Ainssss, qué te quiero yo, coññññño ya!
 <img src="photo_2021-01-22_17-13-05.jpg" alt="Rosalías" width="500" height="600" />
 
 ```markdown
-Muchas felicidades felicidades, espero que a nominó tardar volvamos a ponernos morritos.
+Muchas felicidades felicidades, espero que a no mucho tardar volvamos a ponernos morritos.
 ```
 
 ### Pili
