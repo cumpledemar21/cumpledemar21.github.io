@@ -26,6 +26,7 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 ```
 
 ### Elena
+<img src="elena.jpg" alt="Aquí podemos observar a dos leonas disfrutando de la caza..." width="500" height="600" />
 ```
 Maaaaaar, feliz cumpleaños pechocha!!!!!
 Espero que dentro de poco podamos celebrarlo a lo loco, y que podamos bailar como lo 
