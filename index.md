@@ -96,6 +96,9 @@ PRUEBA
 ## Y una foto que era muy bonita como pa no ponerla
 <img src="ripley.jpg" alt=":)" />
 
+## Y esta igual, claro
+<img src="masmadrid.jpg" alt=":)" />
+
 ### Disclaimer
 Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, 
 eso nos ha permitido crear esta web con la fuerza de nuestra mente. Te queremos, Bill.
