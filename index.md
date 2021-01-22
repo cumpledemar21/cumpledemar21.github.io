@@ -21,7 +21,7 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 Espero que dentro de poco lo podamos celebrar y nos deleites con uno de tus perreos, 
 prometo buscarte una canción digna de ello 💜🌟
 
-PD: Como las fotos que tenemos juntas no hacen justicia a lo buenorra que estás ahora, 
+PD: Como las fotos que tenemos juntas no hacen justicia a lo buenorra que estás, 
 te pongo un GIF de los coreanos (gracias por no quejarte cuando los pongo 😘)
 ```
 
