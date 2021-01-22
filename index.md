@@ -19,7 +19,7 @@ No hemos podido quedar pero esperamos que al menos esto consiga sacarte una sonr
 ```
 
 ### Cibe
-```markdown
+```
 
 ```
 
@@ -70,7 +70,7 @@ Muchas felicidades felicidades, espero que a nominó tardar volvamos a ponernos 
 
 ### Truchi
 ```markdown
-
+PRUEBA
 ```
 
 
