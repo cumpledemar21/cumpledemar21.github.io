@@ -6,15 +6,9 @@ este grupo a la versión 2.0 con un nuevo formato de felicitación. Disfrútalo 
 
 <img src="minion.jpg" alt="Esto es de Dreamworks, creo..."/>
 
-
-### Almu
-```markdown
-
-```
-
 ### Andrea
 
-<div><iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe> <div>
+<iframe src="https://giphy.com/embed/6UrRC9SkO7HYejM9oL" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> </iframe>
 
 ```markdown
 ¡Muchísimas felicidades Mar! 
@@ -133,6 +127,8 @@ Felicidades Mar! Un abrazo grande y a disfrutar.
 <img src="todas.jpg" alt=":)" />
 <img src="masmadrid.jpg" alt=":)" />
 
+## Un bonus por las risas
+<iframe src="" />
 
 ### Disclaimer
 Gracias a Bill Gates por haber comprado GitHub para integrarlo con los chips 5G que nos implanta, 
